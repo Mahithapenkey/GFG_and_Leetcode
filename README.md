@@ -31,7 +31,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 14 | [Addition Under Modulo](https://practice.geeksforgeeks.org/problems/addition-under-modulo/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/AdditionUnderModulo.cpp) |
 | 15 | [Check K-th Bit](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CheckKThBit.c) |
 | 16 | [Count Perfect Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/CountPerfectSquares.cpp) |
-| 17 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_Factorial.c) |
+| 17 | [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/Factorial.c) |
 | 18 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/FloydsTriangle.c) |
 | 19 | [Opposite Side of Dice](https://practice.geeksforgeeks.org/problems/the-dice-problem2316/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/OppositeSideOfDice.cpp) |
 | 20 | [Palindrome Digit Sum](https://practice.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/PalindromeDigitSum.cpp) |
